@@ -1,0 +1,57 @@
+[
+ {
+  "sheet": "GMB Report",
+  "part": "xl/worksheets/sheet1.xml",
+  "csv": "GMB Report.csv"
+ },
+ {
+  "sheet": "SEO Weekly Report",
+  "part": "xl/worksheets/sheet2.xml",
+  "csv": "SEO Weekly Report.csv"
+ },
+ {
+  "sheet": "SEO Monthly Report",
+  "part": "xl/worksheets/sheet3.xml",
+  "csv": "SEO Monthly Report.csv"
+ },
+ {
+  "sheet": "Overall Ranking KW",
+  "part": "xl/worksheets/sheet4.xml",
+  "csv": "Overall Ranking KW.csv"
+ },
+ {
+  "sheet": "Keywords",
+  "part": "xl/worksheets/sheet5.xml",
+  "csv": "Keywords.csv"
+ },
+ {
+  "sheet": "Meta Tags (Key Pages)",
+  "part": "xl/worksheets/sheet6.xml",
+  "csv": "Meta Tags (Key Pages).csv"
+ },
+ {
+  "sheet": "New Meta Tags",
+  "part": "xl/worksheets/sheet7.xml",
+  "csv": "New Meta Tags.csv"
+ },
+ {
+  "sheet": "Projections",
+  "part": "xl/worksheets/sheet8.xml",
+  "csv": "Projections.csv"
+ },
+ {
+  "sheet": "SEO Plan & Timeline",
+  "part": "xl/worksheets/sheet9.xml",
+  "csv": "SEO Plan & Timeline.csv"
+ },
+ {
+  "sheet": "Audit Report",
+  "part": "xl/worksheets/sheet10.xml",
+  "csv": "Audit Report.csv"
+ },
+ {
+  "sheet": "All Reports",
+  "part": "xl/worksheets/sheet11.xml",
+  "csv": "All Reports.csv"
+ }
+]
